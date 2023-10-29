@@ -131,6 +131,7 @@ main {
     text-align: center;
     vertical-align: super;
     font-weight: 800;
+    width: 10rem;
 }
 
 .card__amount {
